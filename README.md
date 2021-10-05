@@ -8,4 +8,4 @@
 gago01/gago01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-how i can withdraw the bitcoin on julianyaman bitcoin clicker?
+how  can  i withdraw the bitcoin on julianyaman bitcoin clicker?
